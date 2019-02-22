@@ -8,3 +8,4 @@ D:\NikolaiStoilkov.github.io\TechModuleProjects\Intro and Basic Syntax - Exercis
 D:\NikolaiStoilkov.github.io\TechModuleProjects\Intro and Basic Syntax - Exercise\02\obj\Debug\netcoreapp2.1\02.AssemblyInfo.cs
 D:\NikolaiStoilkov.github.io\TechModuleProjects\Intro and Basic Syntax - Exercise\02\obj\Debug\netcoreapp2.1\02.dll
 D:\NikolaiStoilkov.github.io\TechModuleProjects\Intro and Basic Syntax - Exercise\02\obj\Debug\netcoreapp2.1\02.pdb
+D:\NikolaiStoilkov.github.io\TechModuleProjects\Intro and Basic Syntax - Exercise\02\obj\Debug\netcoreapp2.1\02.csprojAssemblyReference.cache

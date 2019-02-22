@@ -1,0 +1,10 @@
+D:\NikolaiStoilkov.github.io\TechModuleProjects\Intro and Basic Syntax - Exercise\05\bin\Debug\netcoreapp2.1\05.deps.json
+D:\NikolaiStoilkov.github.io\TechModuleProjects\Intro and Basic Syntax - Exercise\05\bin\Debug\netcoreapp2.1\05.runtimeconfig.json
+D:\NikolaiStoilkov.github.io\TechModuleProjects\Intro and Basic Syntax - Exercise\05\bin\Debug\netcoreapp2.1\05.runtimeconfig.dev.json
+D:\NikolaiStoilkov.github.io\TechModuleProjects\Intro and Basic Syntax - Exercise\05\bin\Debug\netcoreapp2.1\05.dll
+D:\NikolaiStoilkov.github.io\TechModuleProjects\Intro and Basic Syntax - Exercise\05\bin\Debug\netcoreapp2.1\05.pdb
+D:\NikolaiStoilkov.github.io\TechModuleProjects\Intro and Basic Syntax - Exercise\05\obj\Debug\netcoreapp2.1\05.csproj.CoreCompileInputs.cache
+D:\NikolaiStoilkov.github.io\TechModuleProjects\Intro and Basic Syntax - Exercise\05\obj\Debug\netcoreapp2.1\05.AssemblyInfoInputs.cache
+D:\NikolaiStoilkov.github.io\TechModuleProjects\Intro and Basic Syntax - Exercise\05\obj\Debug\netcoreapp2.1\05.AssemblyInfo.cs
+D:\NikolaiStoilkov.github.io\TechModuleProjects\Intro and Basic Syntax - Exercise\05\obj\Debug\netcoreapp2.1\05.dll
+D:\NikolaiStoilkov.github.io\TechModuleProjects\Intro and Basic Syntax - Exercise\05\obj\Debug\netcoreapp2.1\05.pdb
