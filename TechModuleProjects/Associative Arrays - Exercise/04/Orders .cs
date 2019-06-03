@@ -15,6 +15,7 @@ namespace _04
                 .Split()
                 .ToList();
 
+            int quantity = int.Parse(input[2]);
             while (input[0] != "buy")
             {
                 if (orders.ContainsKey(input[0]) == false)
@@ -24,8 +25,15 @@ namespace _04
                 }
                 else if (orders.ContainsKey(input[0]))
                 {
-                    decimal value = decimal.Parse(input[1]) * decimal.Parse(input[2]);
-                    orders[input[0]] += value;
+                    int oldQuantity = quantity;
+                    quantity = 0;
+                    int newQuantity = oldQuantity + int.Parse(input[2]);
+                    decimal value = decimal.Parse(input[1]) * newQuantity;
+                    if (value == orders[input[0]])
+                    {
+
+                    }
+
                 }
 
                 input = Console.ReadLine()
