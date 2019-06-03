@@ -1,0 +1,11 @@
+D:\NikolaiStoilkov.github.io\SnakeGame_v01\SnakeGameSolution\SnakeGame\bin\Debug\netcoreapp2.1\SnakeGame.deps.json
+D:\NikolaiStoilkov.github.io\SnakeGame_v01\SnakeGameSolution\SnakeGame\bin\Debug\netcoreapp2.1\SnakeGame.runtimeconfig.json
+D:\NikolaiStoilkov.github.io\SnakeGame_v01\SnakeGameSolution\SnakeGame\bin\Debug\netcoreapp2.1\SnakeGame.runtimeconfig.dev.json
+D:\NikolaiStoilkov.github.io\SnakeGame_v01\SnakeGameSolution\SnakeGame\bin\Debug\netcoreapp2.1\SnakeGame.dll
+D:\NikolaiStoilkov.github.io\SnakeGame_v01\SnakeGameSolution\SnakeGame\bin\Debug\netcoreapp2.1\SnakeGame.pdb
+D:\NikolaiStoilkov.github.io\SnakeGame_v01\SnakeGameSolution\SnakeGame\obj\Debug\netcoreapp2.1\SnakeGame.csprojAssemblyReference.cache
+D:\NikolaiStoilkov.github.io\SnakeGame_v01\SnakeGameSolution\SnakeGame\obj\Debug\netcoreapp2.1\SnakeGame.csproj.CoreCompileInputs.cache
+D:\NikolaiStoilkov.github.io\SnakeGame_v01\SnakeGameSolution\SnakeGame\obj\Debug\netcoreapp2.1\SnakeGame.AssemblyInfoInputs.cache
+D:\NikolaiStoilkov.github.io\SnakeGame_v01\SnakeGameSolution\SnakeGame\obj\Debug\netcoreapp2.1\SnakeGame.AssemblyInfo.cs
+D:\NikolaiStoilkov.github.io\SnakeGame_v01\SnakeGameSolution\SnakeGame\obj\Debug\netcoreapp2.1\SnakeGame.dll
+D:\NikolaiStoilkov.github.io\SnakeGame_v01\SnakeGameSolution\SnakeGame\obj\Debug\netcoreapp2.1\SnakeGame.pdb
