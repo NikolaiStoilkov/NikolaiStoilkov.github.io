@@ -1,0 +1,11 @@
+D:\C# Advanced\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\04\bin\Debug\netcoreapp3.0\04.exe
+D:\C# Advanced\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\04\bin\Debug\netcoreapp3.0\04.deps.json
+D:\C# Advanced\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\04\bin\Debug\netcoreapp3.0\04.runtimeconfig.json
+D:\C# Advanced\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\04\bin\Debug\netcoreapp3.0\04.runtimeconfig.dev.json
+D:\C# Advanced\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\04\bin\Debug\netcoreapp3.0\04.dll
+D:\C# Advanced\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\04\bin\Debug\netcoreapp3.0\04.pdb
+D:\C# Advanced\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\04\obj\Debug\netcoreapp3.0\04.csprojAssemblyReference.cache
+D:\C# Advanced\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\04\obj\Debug\netcoreapp3.0\04.AssemblyInfoInputs.cache
+D:\C# Advanced\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\04\obj\Debug\netcoreapp3.0\04.AssemblyInfo.cs
+D:\C# Advanced\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\04\obj\Debug\netcoreapp3.0\04.dll
+D:\C# Advanced\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\04\obj\Debug\netcoreapp3.0\04.pdb
