@@ -1,0 +1,12 @@
+D:\InterfaceInfoSelect\InterfaceInfoSelect\InterfaceInfoSelect\bin\Debug\InterfaceInfoSelect.exe.config
+D:\InterfaceInfoSelect\InterfaceInfoSelect\InterfaceInfoSelect\bin\Debug\InterfaceInfoSelect.exe
+D:\InterfaceInfoSelect\InterfaceInfoSelect\InterfaceInfoSelect\bin\Debug\InterfaceInfoSelect.pdb
+D:\InterfaceInfoSelect\InterfaceInfoSelect\InterfaceInfoSelect\obj\Debug\InterfaceInfoSelect.csprojAssemblyReference.cache
+D:\InterfaceInfoSelect\InterfaceInfoSelect\InterfaceInfoSelect\obj\Debug\InterfaceInfoSelect.Form1.resources
+D:\InterfaceInfoSelect\InterfaceInfoSelect\InterfaceInfoSelect\obj\Debug\InterfaceInfoSelect.Properties.Resources.resources
+D:\InterfaceInfoSelect\InterfaceInfoSelect\InterfaceInfoSelect\obj\Debug\InterfaceInfoSelect.csproj.GenerateResource.cache
+D:\InterfaceInfoSelect\InterfaceInfoSelect\InterfaceInfoSelect\obj\Debug\InterfaceInfoSelect.csproj.CoreCompileInputs.cache
+D:\InterfaceInfoSelect\InterfaceInfoSelect\InterfaceInfoSelect\obj\Debug\InterfaceInfoSelect.exe
+D:\InterfaceInfoSelect\InterfaceInfoSelect\InterfaceInfoSelect\obj\Debug\InterfaceInfoSelect.pdb
+D:\InterfaceInfoSelect\InterfaceInfoSelect\InterfaceInfoSelect\obj\Debug\InterfaceInfoSelect.New_Form.resources
+D:\InterfaceInfoSelect\InterfaceInfoSelect\InterfaceInfoSelect\obj\Debug\InterfaceInfoSelect.New_Form0.resources
