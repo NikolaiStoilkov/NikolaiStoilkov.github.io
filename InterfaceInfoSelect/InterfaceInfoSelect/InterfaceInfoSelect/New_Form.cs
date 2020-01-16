@@ -148,7 +148,7 @@ namespace InterfaceInfoSelect
             string newLine = Environment.NewLine;
             foreach (var item in _Collect)
             {
-                File.WriteAllText(pathTxt, MyDictionaryToJson(item.) + newLine);
+              //  File.WriteAllText(pathTxt, MyDictionaryToJson(item) + newLine);
             }
         }
 

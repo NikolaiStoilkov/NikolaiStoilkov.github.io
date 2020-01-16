@@ -10,3 +10,14 @@ D:\InterfaceInfoSelect\InterfaceInfoSelect\InterfaceInfoSelect\obj\Debug\Interfa
 D:\InterfaceInfoSelect\InterfaceInfoSelect\InterfaceInfoSelect\obj\Debug\InterfaceInfoSelect.pdb
 D:\InterfaceInfoSelect\InterfaceInfoSelect\InterfaceInfoSelect\obj\Debug\InterfaceInfoSelect.New_Form.resources
 D:\InterfaceInfoSelect\InterfaceInfoSelect\InterfaceInfoSelect\obj\Debug\InterfaceInfoSelect.New_Form0.resources
+D:\NikolaiStoilkov.github.io\InterfaceInfoSelect\InterfaceInfoSelect\InterfaceInfoSelect\obj\Debug\InterfaceInfoSelect.csprojAssemblyReference.cache
+D:\NikolaiStoilkov.github.io\InterfaceInfoSelect\InterfaceInfoSelect\InterfaceInfoSelect\obj\Debug\InterfaceInfoSelect.Form1.resources
+D:\NikolaiStoilkov.github.io\InterfaceInfoSelect\InterfaceInfoSelect\InterfaceInfoSelect\obj\Debug\InterfaceInfoSelect.New_Form.resources
+D:\NikolaiStoilkov.github.io\InterfaceInfoSelect\InterfaceInfoSelect\InterfaceInfoSelect\obj\Debug\InterfaceInfoSelect.New_Form0.resources
+D:\NikolaiStoilkov.github.io\InterfaceInfoSelect\InterfaceInfoSelect\InterfaceInfoSelect\obj\Debug\InterfaceInfoSelect.Properties.Resources.resources
+D:\NikolaiStoilkov.github.io\InterfaceInfoSelect\InterfaceInfoSelect\InterfaceInfoSelect\obj\Debug\InterfaceInfoSelect.csproj.GenerateResource.cache
+D:\NikolaiStoilkov.github.io\InterfaceInfoSelect\InterfaceInfoSelect\InterfaceInfoSelect\obj\Debug\InterfaceInfoSelect.exe
+D:\NikolaiStoilkov.github.io\InterfaceInfoSelect\InterfaceInfoSelect\InterfaceInfoSelect\obj\Debug\InterfaceInfoSelect.pdb
+D:\NikolaiStoilkov.github.io\InterfaceInfoSelect\InterfaceInfoSelect\InterfaceInfoSelect\bin\Debug\InterfaceInfoSelect.exe.config
+D:\NikolaiStoilkov.github.io\InterfaceInfoSelect\InterfaceInfoSelect\InterfaceInfoSelect\bin\Debug\InterfaceInfoSelect.exe
+D:\NikolaiStoilkov.github.io\InterfaceInfoSelect\InterfaceInfoSelect\InterfaceInfoSelect\bin\Debug\InterfaceInfoSelect.pdb
