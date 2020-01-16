@@ -1,0 +1,11 @@
+D:\NikolaiStoilkov.github.io\BankAccountManager\BankAccuntManagerSolution\BankAccuntManager\bin\Debug\BankAccuntManager.exe.config
+D:\NikolaiStoilkov.github.io\BankAccountManager\BankAccuntManagerSolution\BankAccuntManager\bin\Debug\BankAccuntManager.exe
+D:\NikolaiStoilkov.github.io\BankAccountManager\BankAccuntManagerSolution\BankAccuntManager\bin\Debug\BankAccuntManager.pdb
+D:\NikolaiStoilkov.github.io\BankAccountManager\BankAccuntManagerSolution\BankAccuntManager\obj\Debug\BankAccuntManager.csprojAssemblyReference.cache
+D:\NikolaiStoilkov.github.io\BankAccountManager\BankAccuntManagerSolution\BankAccuntManager\obj\Debug\BankAccuntManager.Form1.resources
+D:\NikolaiStoilkov.github.io\BankAccountManager\BankAccuntManagerSolution\BankAccuntManager\obj\Debug\BankAccuntManager.Properties.Resources.resources
+D:\NikolaiStoilkov.github.io\BankAccountManager\BankAccuntManagerSolution\BankAccuntManager\obj\Debug\BankAccuntManager.csproj.GenerateResource.cache
+D:\NikolaiStoilkov.github.io\BankAccountManager\BankAccuntManagerSolution\BankAccuntManager\obj\Debug\BankAccuntManager.csproj.CoreCompileInputs.cache
+D:\NikolaiStoilkov.github.io\BankAccountManager\BankAccuntManagerSolution\BankAccuntManager\obj\Debug\BankAccuntManager.exe
+D:\NikolaiStoilkov.github.io\BankAccountManager\BankAccuntManagerSolution\BankAccuntManager\obj\Debug\BankAccuntManager.pdb
+D:\NikolaiStoilkov.github.io\BankAccountManager\BankAccuntManagerSolution\BankAccuntManager\obj\Debug\BankAccuntManager.Form2.resources

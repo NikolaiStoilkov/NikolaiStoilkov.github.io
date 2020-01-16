@@ -2,39 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17ecbac8-8bc4-4683-bee0-07f2d7f8170a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/customWebCSS.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/.vs/Associative Arrays - Exercise/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/.vs/Associative Arrays - Exercise/v15/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/.vs/Associative Arrays - Exercise/v15/Server/sqlite3/storage.ide-shm" beforeDir="false" afterPath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/.vs/Associative Arrays - Exercise/v15/Server/sqlite3/storage.ide-shm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/.vs/Associative Arrays - Exercise/v15/Server/sqlite3/storage.ide-wal" beforeDir="false" afterPath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/.vs/Associative Arrays - Exercise/v15/Server/sqlite3/storage.ide-wal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/02/obj/02.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/02/obj/02.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/02/obj/02.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/02/obj/02.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/02/obj/Debug/netcoreapp2.1/02.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/02/obj/Debug/netcoreapp2.1/02.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/02/obj/Debug/netcoreapp2.1/02.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/02/obj/Debug/netcoreapp2.1/02.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/02/obj/Debug/netcoreapp2.1/02.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/02/obj/Debug/netcoreapp2.1/02.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/02/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/02/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/03/obj/03.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/03/obj/03.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/03/obj/03.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/03/obj/03.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/03/obj/Debug/netcoreapp2.1/03.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/03/obj/Debug/netcoreapp2.1/03.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/03/obj/Debug/netcoreapp2.1/03.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/03/obj/Debug/netcoreapp2.1/03.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/03/obj/Debug/netcoreapp2.1/03.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/03/obj/Debug/netcoreapp2.1/03.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/03/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/03/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/04/Orders .cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/04/Orders .cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/04/obj/04.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/04/obj/04.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/04/obj/04.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/04/obj/04.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/04/obj/Debug/netcoreapp2.1/04.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/04/obj/Debug/netcoreapp2.1/04.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/04/obj/Debug/netcoreapp2.1/04.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/04/obj/Debug/netcoreapp2.1/04.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/04/obj/Debug/netcoreapp2.1/04.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/04/obj/Debug/netcoreapp2.1/04.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/04/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/04/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/Associative Arrays - Exercise/obj/01.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/Associative Arrays - Exercise/obj/01.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/Associative Arrays - Exercise/obj/01.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/Associative Arrays - Exercise/obj/01.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/Associative Arrays - Exercise/obj/Debug/netcoreapp2.1/01.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/Associative Arrays - Exercise/obj/Debug/netcoreapp2.1/01.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/Associative Arrays - Exercise/obj/Debug/netcoreapp2.1/01.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/Associative Arrays - Exercise/obj/Debug/netcoreapp2.1/01.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/Associative Arrays - Exercise/obj/Debug/netcoreapp2.1/01.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/Associative Arrays - Exercise/obj/Debug/netcoreapp2.1/01.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/Associative Arrays - Exercise/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TechModuleProjects/Associative Arrays - Exercise/Associative Arrays - Exercise/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Webpage_v1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserCollector/UserCollectorSolution/.vs/UserCollectorSolution/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../UserCollector/UserCollectorSolution/.vs/UserCollectorSolution/v15/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserCollector/UserCollectorSolution/.vs/UserCollectorSolution/v15/Server/sqlite3/storage.ide" beforeDir="false" afterPath="$PROJECT_DIR$/../UserCollector/UserCollectorSolution/.vs/UserCollectorSolution/v15/Server/sqlite3/storage.ide" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserCollector/UserCollectorSolution/.vs/UserCollectorSolution/v15/Server/sqlite3/storage.ide-shm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserCollector/UserCollectorSolution/.vs/UserCollectorSolution/v15/Server/sqlite3/storage.ide-wal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserCollector/UserCollectorSolution/UserCollector/Controllers/HomeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../UserCollector/UserCollectorSolution/UserCollector/Controllers/HomeController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserCollector/UserCollectorSolution/UserCollector/Views/Home/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/../UserCollector/UserCollectorSolution/UserCollector/Views/Home/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserCollector/UserCollectorSolution/UserCollector/obj/Debug/netcoreapp2.1/UserCollector.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../UserCollector/UserCollectorSolution/UserCollector/obj/Debug/netcoreapp2.1/UserCollector.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserCollector/UserCollectorSolution/UserCollector/obj/UserCollector.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../UserCollector/UserCollectorSolution/UserCollector/obj/UserCollector.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserCollector/UserCollectorSolution/UserCollector/obj/UserCollector.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../UserCollector/UserCollectorSolution/UserCollector/obj/UserCollector.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserCollector/UserCollectorSolution/UserCollector/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../UserCollector/UserCollectorSolution/UserCollector/obj/project.assets.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -77,7 +54,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/bootstrap.min.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7516">
+            <state relative-caret-position="33258">
               <caret line="1450" column="98" selection-start-line="1450" selection-start-column="98" selection-end-line="1450" selection-end-column="98" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -187,11 +164,12 @@
       <workItem from="1558544552444" duration="1926000" />
       <workItem from="1558546907588" duration="320000" />
       <workItem from="1558900198101" duration="636000" />
+      <workItem from="1560669821980" duration="62000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17561000" />
+    <option name="totallyTimeSpent" value="17623000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -241,6 +219,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
@@ -257,18 +242,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/bootstrap.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7516">
+        <state relative-caret-position="33258">
           <caret line="1450" column="98" selection-start-line="1450" selection-start-column="98" selection-end-line="1450" selection-end-column="98" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
         </state>
       </provider>
     </entry>
