@@ -1,0 +1,11 @@
+D:\NikolaiStoilkov.github.io\C# Advanced\CSharp-Advanced-Stacks-Queues-LAB\Lab\ConsoleApp2\bin\Debug\netcoreapp3.1\04.exe
+D:\NikolaiStoilkov.github.io\C# Advanced\CSharp-Advanced-Stacks-Queues-LAB\Lab\ConsoleApp2\bin\Debug\netcoreapp3.1\04.deps.json
+D:\NikolaiStoilkov.github.io\C# Advanced\CSharp-Advanced-Stacks-Queues-LAB\Lab\ConsoleApp2\bin\Debug\netcoreapp3.1\04.runtimeconfig.json
+D:\NikolaiStoilkov.github.io\C# Advanced\CSharp-Advanced-Stacks-Queues-LAB\Lab\ConsoleApp2\bin\Debug\netcoreapp3.1\04.runtimeconfig.dev.json
+D:\NikolaiStoilkov.github.io\C# Advanced\CSharp-Advanced-Stacks-Queues-LAB\Lab\ConsoleApp2\bin\Debug\netcoreapp3.1\04.dll
+D:\NikolaiStoilkov.github.io\C# Advanced\CSharp-Advanced-Stacks-Queues-LAB\Lab\ConsoleApp2\bin\Debug\netcoreapp3.1\04.pdb
+D:\NikolaiStoilkov.github.io\C# Advanced\CSharp-Advanced-Stacks-Queues-LAB\Lab\ConsoleApp2\obj\Debug\netcoreapp3.1\04.csprojAssemblyReference.cache
+D:\NikolaiStoilkov.github.io\C# Advanced\CSharp-Advanced-Stacks-Queues-LAB\Lab\ConsoleApp2\obj\Debug\netcoreapp3.1\04.AssemblyInfoInputs.cache
+D:\NikolaiStoilkov.github.io\C# Advanced\CSharp-Advanced-Stacks-Queues-LAB\Lab\ConsoleApp2\obj\Debug\netcoreapp3.1\04.AssemblyInfo.cs
+D:\NikolaiStoilkov.github.io\C# Advanced\CSharp-Advanced-Stacks-Queues-LAB\Lab\ConsoleApp2\obj\Debug\netcoreapp3.1\04.dll
+D:\NikolaiStoilkov.github.io\C# Advanced\CSharp-Advanced-Stacks-Queues-LAB\Lab\ConsoleApp2\obj\Debug\netcoreapp3.1\04.pdb
