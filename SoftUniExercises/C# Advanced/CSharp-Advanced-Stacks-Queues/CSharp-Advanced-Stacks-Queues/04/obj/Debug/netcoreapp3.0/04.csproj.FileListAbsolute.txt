@@ -20,3 +20,14 @@ D:\NikolaiStoilkov.github.io\C# Advanced\CSharp-Advanced-Stacks-Queues\CSharp-Ad
 D:\NikolaiStoilkov.github.io\C# Advanced\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\04\obj\Debug\netcoreapp3.0\04.AssemblyInfo.cs
 D:\NikolaiStoilkov.github.io\C# Advanced\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\04\obj\Debug\netcoreapp3.0\04.dll
 D:\NikolaiStoilkov.github.io\C# Advanced\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\04\obj\Debug\netcoreapp3.0\04.pdb
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\04\bin\Debug\netcoreapp3.0\04.exe
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\04\bin\Debug\netcoreapp3.0\04.deps.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\04\bin\Debug\netcoreapp3.0\04.runtimeconfig.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\04\bin\Debug\netcoreapp3.0\04.runtimeconfig.dev.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\04\bin\Debug\netcoreapp3.0\04.dll
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\04\bin\Debug\netcoreapp3.0\04.pdb
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\04\obj\Debug\netcoreapp3.0\04.csprojAssemblyReference.cache
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\04\obj\Debug\netcoreapp3.0\04.AssemblyInfoInputs.cache
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\04\obj\Debug\netcoreapp3.0\04.AssemblyInfo.cs
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\04\obj\Debug\netcoreapp3.0\04.dll
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\04\obj\Debug\netcoreapp3.0\04.pdb

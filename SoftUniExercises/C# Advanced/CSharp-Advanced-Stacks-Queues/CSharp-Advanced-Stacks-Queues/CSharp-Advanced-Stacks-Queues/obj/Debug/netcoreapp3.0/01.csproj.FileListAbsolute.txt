@@ -20,3 +20,14 @@ D:\NikolaiStoilkov.github.io\C# Advanced\CSharp-Advanced-Stacks-Queues\CSharp-Ad
 D:\NikolaiStoilkov.github.io\C# Advanced\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\obj\Debug\netcoreapp3.0\01.AssemblyInfo.cs
 D:\NikolaiStoilkov.github.io\C# Advanced\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\obj\Debug\netcoreapp3.0\01.dll
 D:\NikolaiStoilkov.github.io\C# Advanced\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\obj\Debug\netcoreapp3.0\01.pdb
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\bin\Debug\netcoreapp3.0\01.exe
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\bin\Debug\netcoreapp3.0\01.deps.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\bin\Debug\netcoreapp3.0\01.runtimeconfig.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\bin\Debug\netcoreapp3.0\01.runtimeconfig.dev.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\bin\Debug\netcoreapp3.0\01.dll
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\bin\Debug\netcoreapp3.0\01.pdb
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\obj\Debug\netcoreapp3.0\01.csprojAssemblyReference.cache
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\obj\Debug\netcoreapp3.0\01.AssemblyInfoInputs.cache
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\obj\Debug\netcoreapp3.0\01.AssemblyInfo.cs
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\obj\Debug\netcoreapp3.0\01.dll
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\CSharp-Advanced-Stacks-Queues\obj\Debug\netcoreapp3.0\01.pdb
