@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\NikolaiStoilkov.github.io\\C# Advanced\\CSharp-Advanced-Stacks-Queues-LAB\\Lab\\ConsoleApp2\\04.csproj",
+      "projectUniqueName": "D:\\NikolaiStoilkov.github.io\\SoftUniExercises\\C# Advanced\\CSharp-Advanced-Stacks-Queues-LAB\\Lab\\ConsoleApp2\\04.csproj",
       "projectName": "04",
-      "projectPath": "D:\\NikolaiStoilkov.github.io\\C# Advanced\\CSharp-Advanced-Stacks-Queues-LAB\\Lab\\ConsoleApp2\\04.csproj",
+      "projectPath": "D:\\NikolaiStoilkov.github.io\\SoftUniExercises\\C# Advanced\\CSharp-Advanced-Stacks-Queues-LAB\\Lab\\ConsoleApp2\\04.csproj",
       "packagesPath": "C:\\Users\\Hizzly\\.nuget\\packages\\",
-      "outputPath": "D:\\NikolaiStoilkov.github.io\\C# Advanced\\CSharp-Advanced-Stacks-Queues-LAB\\Lab\\ConsoleApp2\\obj\\",
+      "outputPath": "D:\\NikolaiStoilkov.github.io\\SoftUniExercises\\C# Advanced\\CSharp-Advanced-Stacks-Queues-LAB\\Lab\\ConsoleApp2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

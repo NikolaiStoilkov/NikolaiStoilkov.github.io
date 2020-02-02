@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\NikolaiStoilkov.github.io\\C# Advanced\\CSharp-Advanced-Stacks-Queues-LAB\\Lab\\07\\06.csproj": {}
+    "D:\\NikolaiStoilkov.github.io\\SoftUniExercises\\C# Advanced\\CSharp-Advanced-Stacks-Queues-LAB\\Lab\\07\\06.csproj": {}
   },
   "projects": {
-    "D:\\NikolaiStoilkov.github.io\\C# Advanced\\CSharp-Advanced-Stacks-Queues-LAB\\Lab\\07\\06.csproj": {
+    "D:\\NikolaiStoilkov.github.io\\SoftUniExercises\\C# Advanced\\CSharp-Advanced-Stacks-Queues-LAB\\Lab\\07\\06.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\NikolaiStoilkov.github.io\\C# Advanced\\CSharp-Advanced-Stacks-Queues-LAB\\Lab\\07\\06.csproj",
+        "projectUniqueName": "D:\\NikolaiStoilkov.github.io\\SoftUniExercises\\C# Advanced\\CSharp-Advanced-Stacks-Queues-LAB\\Lab\\07\\06.csproj",
         "projectName": "06",
-        "projectPath": "D:\\NikolaiStoilkov.github.io\\C# Advanced\\CSharp-Advanced-Stacks-Queues-LAB\\Lab\\07\\06.csproj",
+        "projectPath": "D:\\NikolaiStoilkov.github.io\\SoftUniExercises\\C# Advanced\\CSharp-Advanced-Stacks-Queues-LAB\\Lab\\07\\06.csproj",
         "packagesPath": "C:\\Users\\Hizzly\\.nuget\\packages\\",
-        "outputPath": "D:\\NikolaiStoilkov.github.io\\C# Advanced\\CSharp-Advanced-Stacks-Queues-LAB\\Lab\\07\\obj\\",
+        "outputPath": "D:\\NikolaiStoilkov.github.io\\SoftUniExercises\\C# Advanced\\CSharp-Advanced-Stacks-Queues-LAB\\Lab\\07\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
