@@ -1,0 +1,12 @@
+D:\NikolaiStoilkov.github.io\C# Advanced\StreamFilesAndDirectories\StreamFilesAndDirectories\bin\Debug\netcoreapp3.1\Input.txt
+D:\NikolaiStoilkov.github.io\C# Advanced\StreamFilesAndDirectories\StreamFilesAndDirectories\bin\Debug\netcoreapp3.1\P01.Even Lines.exe
+D:\NikolaiStoilkov.github.io\C# Advanced\StreamFilesAndDirectories\StreamFilesAndDirectories\bin\Debug\netcoreapp3.1\P01.Even Lines.deps.json
+D:\NikolaiStoilkov.github.io\C# Advanced\StreamFilesAndDirectories\StreamFilesAndDirectories\bin\Debug\netcoreapp3.1\P01.Even Lines.runtimeconfig.json
+D:\NikolaiStoilkov.github.io\C# Advanced\StreamFilesAndDirectories\StreamFilesAndDirectories\bin\Debug\netcoreapp3.1\P01.Even Lines.runtimeconfig.dev.json
+D:\NikolaiStoilkov.github.io\C# Advanced\StreamFilesAndDirectories\StreamFilesAndDirectories\bin\Debug\netcoreapp3.1\P01.Even Lines.dll
+D:\NikolaiStoilkov.github.io\C# Advanced\StreamFilesAndDirectories\StreamFilesAndDirectories\bin\Debug\netcoreapp3.1\P01.Even Lines.pdb
+D:\NikolaiStoilkov.github.io\C# Advanced\StreamFilesAndDirectories\StreamFilesAndDirectories\obj\Debug\netcoreapp3.1\P01.Even Lines.csprojAssemblyReference.cache
+D:\NikolaiStoilkov.github.io\C# Advanced\StreamFilesAndDirectories\StreamFilesAndDirectories\obj\Debug\netcoreapp3.1\P01.Even Lines.AssemblyInfoInputs.cache
+D:\NikolaiStoilkov.github.io\C# Advanced\StreamFilesAndDirectories\StreamFilesAndDirectories\obj\Debug\netcoreapp3.1\P01.Even Lines.AssemblyInfo.cs
+D:\NikolaiStoilkov.github.io\C# Advanced\StreamFilesAndDirectories\StreamFilesAndDirectories\obj\Debug\netcoreapp3.1\P01.Even Lines.dll
+D:\NikolaiStoilkov.github.io\C# Advanced\StreamFilesAndDirectories\StreamFilesAndDirectories\obj\Debug\netcoreapp3.1\P01.Even Lines.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "P01.Even Lines/1.0.0": {
+        "runtime": {
+          "P01.Even Lines.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P01.Even Lines/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

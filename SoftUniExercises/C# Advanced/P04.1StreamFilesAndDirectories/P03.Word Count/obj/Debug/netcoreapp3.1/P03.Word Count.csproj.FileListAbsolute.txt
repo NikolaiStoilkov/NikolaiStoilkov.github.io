@@ -1,0 +1,13 @@
+D:\NikolaiStoilkov.github.io\C# Advanced\StreamFilesAndDirectories\P03.Word Count\bin\Debug\netcoreapp3.1\P03.Word Count.exe
+D:\NikolaiStoilkov.github.io\C# Advanced\StreamFilesAndDirectories\P03.Word Count\bin\Debug\netcoreapp3.1\P03.Word Count.deps.json
+D:\NikolaiStoilkov.github.io\C# Advanced\StreamFilesAndDirectories\P03.Word Count\bin\Debug\netcoreapp3.1\P03.Word Count.runtimeconfig.json
+D:\NikolaiStoilkov.github.io\C# Advanced\StreamFilesAndDirectories\P03.Word Count\bin\Debug\netcoreapp3.1\P03.Word Count.runtimeconfig.dev.json
+D:\NikolaiStoilkov.github.io\C# Advanced\StreamFilesAndDirectories\P03.Word Count\bin\Debug\netcoreapp3.1\P03.Word Count.dll
+D:\NikolaiStoilkov.github.io\C# Advanced\StreamFilesAndDirectories\P03.Word Count\bin\Debug\netcoreapp3.1\P03.Word Count.pdb
+D:\NikolaiStoilkov.github.io\C# Advanced\StreamFilesAndDirectories\P03.Word Count\obj\Debug\netcoreapp3.1\P03.Word Count.csprojAssemblyReference.cache
+D:\NikolaiStoilkov.github.io\C# Advanced\StreamFilesAndDirectories\P03.Word Count\obj\Debug\netcoreapp3.1\P03.Word Count.AssemblyInfoInputs.cache
+D:\NikolaiStoilkov.github.io\C# Advanced\StreamFilesAndDirectories\P03.Word Count\obj\Debug\netcoreapp3.1\P03.Word Count.AssemblyInfo.cs
+D:\NikolaiStoilkov.github.io\C# Advanced\StreamFilesAndDirectories\P03.Word Count\obj\Debug\netcoreapp3.1\P03.Word Count.dll
+D:\NikolaiStoilkov.github.io\C# Advanced\StreamFilesAndDirectories\P03.Word Count\obj\Debug\netcoreapp3.1\P03.Word Count.pdb
+D:\NikolaiStoilkov.github.io\C# Advanced\StreamFilesAndDirectories\P03.Word Count\bin\Debug\netcoreapp3.1\text.txt
+D:\NikolaiStoilkov.github.io\C# Advanced\StreamFilesAndDirectories\P03.Word Count\bin\Debug\netcoreapp3.1\words.txt

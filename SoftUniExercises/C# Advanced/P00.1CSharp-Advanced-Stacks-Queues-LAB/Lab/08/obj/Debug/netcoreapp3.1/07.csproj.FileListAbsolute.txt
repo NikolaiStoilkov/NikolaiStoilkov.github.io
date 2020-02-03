@@ -1,0 +1,11 @@
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\CSharp-Advanced-Stacks-Queues-LAB\Lab\08\bin\Debug\netcoreapp3.1\07.exe
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\CSharp-Advanced-Stacks-Queues-LAB\Lab\08\bin\Debug\netcoreapp3.1\07.deps.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\CSharp-Advanced-Stacks-Queues-LAB\Lab\08\bin\Debug\netcoreapp3.1\07.runtimeconfig.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\CSharp-Advanced-Stacks-Queues-LAB\Lab\08\bin\Debug\netcoreapp3.1\07.runtimeconfig.dev.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\CSharp-Advanced-Stacks-Queues-LAB\Lab\08\bin\Debug\netcoreapp3.1\07.dll
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\CSharp-Advanced-Stacks-Queues-LAB\Lab\08\bin\Debug\netcoreapp3.1\07.pdb
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\CSharp-Advanced-Stacks-Queues-LAB\Lab\08\obj\Debug\netcoreapp3.1\07.csprojAssemblyReference.cache
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\CSharp-Advanced-Stacks-Queues-LAB\Lab\08\obj\Debug\netcoreapp3.1\07.AssemblyInfoInputs.cache
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\CSharp-Advanced-Stacks-Queues-LAB\Lab\08\obj\Debug\netcoreapp3.1\07.AssemblyInfo.cs
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\CSharp-Advanced-Stacks-Queues-LAB\Lab\08\obj\Debug\netcoreapp3.1\07.dll
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\CSharp-Advanced-Stacks-Queues-LAB\Lab\08\obj\Debug\netcoreapp3.1\07.pdb
