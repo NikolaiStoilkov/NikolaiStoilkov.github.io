@@ -1,0 +1,11 @@
+D:\NikolaiStoilkov.github.io\SoftUniExercises\TechModuleProjects\Methods. Debugging and Troubleshooting Code - Exercises\p01.HelloName\p02.MaxMethod\bin\Debug\netcoreapp3.1\p02.MaxMethod.exe
+D:\NikolaiStoilkov.github.io\SoftUniExercises\TechModuleProjects\Methods. Debugging and Troubleshooting Code - Exercises\p01.HelloName\p02.MaxMethod\bin\Debug\netcoreapp3.1\p02.MaxMethod.deps.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\TechModuleProjects\Methods. Debugging and Troubleshooting Code - Exercises\p01.HelloName\p02.MaxMethod\bin\Debug\netcoreapp3.1\p02.MaxMethod.runtimeconfig.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\TechModuleProjects\Methods. Debugging and Troubleshooting Code - Exercises\p01.HelloName\p02.MaxMethod\bin\Debug\netcoreapp3.1\p02.MaxMethod.runtimeconfig.dev.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\TechModuleProjects\Methods. Debugging and Troubleshooting Code - Exercises\p01.HelloName\p02.MaxMethod\bin\Debug\netcoreapp3.1\p02.MaxMethod.dll
+D:\NikolaiStoilkov.github.io\SoftUniExercises\TechModuleProjects\Methods. Debugging and Troubleshooting Code - Exercises\p01.HelloName\p02.MaxMethod\bin\Debug\netcoreapp3.1\p02.MaxMethod.pdb
+D:\NikolaiStoilkov.github.io\SoftUniExercises\TechModuleProjects\Methods. Debugging and Troubleshooting Code - Exercises\p01.HelloName\p02.MaxMethod\obj\Debug\netcoreapp3.1\p02.MaxMethod.csprojAssemblyReference.cache
+D:\NikolaiStoilkov.github.io\SoftUniExercises\TechModuleProjects\Methods. Debugging and Troubleshooting Code - Exercises\p01.HelloName\p02.MaxMethod\obj\Debug\netcoreapp3.1\p02.MaxMethod.AssemblyInfoInputs.cache
+D:\NikolaiStoilkov.github.io\SoftUniExercises\TechModuleProjects\Methods. Debugging and Troubleshooting Code - Exercises\p01.HelloName\p02.MaxMethod\obj\Debug\netcoreapp3.1\p02.MaxMethod.AssemblyInfo.cs
+D:\NikolaiStoilkov.github.io\SoftUniExercises\TechModuleProjects\Methods. Debugging and Troubleshooting Code - Exercises\p01.HelloName\p02.MaxMethod\obj\Debug\netcoreapp3.1\p02.MaxMethod.dll
+D:\NikolaiStoilkov.github.io\SoftUniExercises\TechModuleProjects\Methods. Debugging and Troubleshooting Code - Exercises\p01.HelloName\p02.MaxMethod\obj\Debug\netcoreapp3.1\p02.MaxMethod.pdb

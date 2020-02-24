@@ -1,0 +1,11 @@
+D:\NikolaiStoilkov.github.io\SoftUniExercises\TechModuleProjects\Methods. Debugging and Troubleshooting Code - Exercises\p01.HelloName\p01.HelloName\bin\Debug\netcoreapp3.1\p01.HelloName.exe
+D:\NikolaiStoilkov.github.io\SoftUniExercises\TechModuleProjects\Methods. Debugging and Troubleshooting Code - Exercises\p01.HelloName\p01.HelloName\bin\Debug\netcoreapp3.1\p01.HelloName.deps.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\TechModuleProjects\Methods. Debugging and Troubleshooting Code - Exercises\p01.HelloName\p01.HelloName\bin\Debug\netcoreapp3.1\p01.HelloName.runtimeconfig.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\TechModuleProjects\Methods. Debugging and Troubleshooting Code - Exercises\p01.HelloName\p01.HelloName\bin\Debug\netcoreapp3.1\p01.HelloName.runtimeconfig.dev.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\TechModuleProjects\Methods. Debugging and Troubleshooting Code - Exercises\p01.HelloName\p01.HelloName\bin\Debug\netcoreapp3.1\p01.HelloName.dll
+D:\NikolaiStoilkov.github.io\SoftUniExercises\TechModuleProjects\Methods. Debugging and Troubleshooting Code - Exercises\p01.HelloName\p01.HelloName\bin\Debug\netcoreapp3.1\p01.HelloName.pdb
+D:\NikolaiStoilkov.github.io\SoftUniExercises\TechModuleProjects\Methods. Debugging and Troubleshooting Code - Exercises\p01.HelloName\p01.HelloName\obj\Debug\netcoreapp3.1\p01.HelloName.csprojAssemblyReference.cache
+D:\NikolaiStoilkov.github.io\SoftUniExercises\TechModuleProjects\Methods. Debugging and Troubleshooting Code - Exercises\p01.HelloName\p01.HelloName\obj\Debug\netcoreapp3.1\p01.HelloName.AssemblyInfoInputs.cache
+D:\NikolaiStoilkov.github.io\SoftUniExercises\TechModuleProjects\Methods. Debugging and Troubleshooting Code - Exercises\p01.HelloName\p01.HelloName\obj\Debug\netcoreapp3.1\p01.HelloName.AssemblyInfo.cs
+D:\NikolaiStoilkov.github.io\SoftUniExercises\TechModuleProjects\Methods. Debugging and Troubleshooting Code - Exercises\p01.HelloName\p01.HelloName\obj\Debug\netcoreapp3.1\p01.HelloName.dll
+D:\NikolaiStoilkov.github.io\SoftUniExercises\TechModuleProjects\Methods. Debugging and Troubleshooting Code - Exercises\p01.HelloName\p01.HelloName\obj\Debug\netcoreapp3.1\p01.HelloName.pdb

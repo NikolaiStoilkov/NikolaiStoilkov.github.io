@@ -1,0 +1,10 @@
+D:\NikolaiStoilkov.github.io\SoftUniExercises\TechModuleProjects\Lists - Exercise\Lists - Exercise\01\bin\Debug\netcoreapp2.1\p01.Max Sequence of Equal Elements.deps.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\TechModuleProjects\Lists - Exercise\Lists - Exercise\01\bin\Debug\netcoreapp2.1\p01.Max Sequence of Equal Elements.runtimeconfig.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\TechModuleProjects\Lists - Exercise\Lists - Exercise\01\bin\Debug\netcoreapp2.1\p01.Max Sequence of Equal Elements.runtimeconfig.dev.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\TechModuleProjects\Lists - Exercise\Lists - Exercise\01\bin\Debug\netcoreapp2.1\p01.Max Sequence of Equal Elements.dll
+D:\NikolaiStoilkov.github.io\SoftUniExercises\TechModuleProjects\Lists - Exercise\Lists - Exercise\01\bin\Debug\netcoreapp2.1\p01.Max Sequence of Equal Elements.pdb
+D:\NikolaiStoilkov.github.io\SoftUniExercises\TechModuleProjects\Lists - Exercise\Lists - Exercise\01\obj\Debug\netcoreapp2.1\p01.Max Sequence of Equal Elements.csprojAssemblyReference.cache
+D:\NikolaiStoilkov.github.io\SoftUniExercises\TechModuleProjects\Lists - Exercise\Lists - Exercise\01\obj\Debug\netcoreapp2.1\p01.Max Sequence of Equal Elements.AssemblyInfoInputs.cache
+D:\NikolaiStoilkov.github.io\SoftUniExercises\TechModuleProjects\Lists - Exercise\Lists - Exercise\01\obj\Debug\netcoreapp2.1\p01.Max Sequence of Equal Elements.AssemblyInfo.cs
+D:\NikolaiStoilkov.github.io\SoftUniExercises\TechModuleProjects\Lists - Exercise\Lists - Exercise\01\obj\Debug\netcoreapp2.1\p01.Max Sequence of Equal Elements.dll
+D:\NikolaiStoilkov.github.io\SoftUniExercises\TechModuleProjects\Lists - Exercise\Lists - Exercise\01\obj\Debug\netcoreapp2.1\p01.Max Sequence of Equal Elements.pdb

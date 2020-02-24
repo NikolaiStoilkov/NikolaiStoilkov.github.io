@@ -2,6 +2,5 @@ D:\NikolaiStoilkov.github.io\SnakeGame_v1\SnakeGameSolution\SnakeGame\bin\Debug\
 D:\NikolaiStoilkov.github.io\SnakeGame_v1\SnakeGameSolution\SnakeGame\bin\Debug\SnakeGame.exe
 D:\NikolaiStoilkov.github.io\SnakeGame_v1\SnakeGameSolution\SnakeGame\bin\Debug\SnakeGame.pdb
 D:\NikolaiStoilkov.github.io\SnakeGame_v1\SnakeGameSolution\SnakeGame\obj\Debug\SnakeGame.csprojAssemblyReference.cache
-D:\NikolaiStoilkov.github.io\SnakeGame_v1\SnakeGameSolution\SnakeGame\obj\Debug\SnakeGame.csproj.CoreCompileInputs.cache
 D:\NikolaiStoilkov.github.io\SnakeGame_v1\SnakeGameSolution\SnakeGame\obj\Debug\SnakeGame.exe
 D:\NikolaiStoilkov.github.io\SnakeGame_v1\SnakeGameSolution\SnakeGame\obj\Debug\SnakeGame.pdb

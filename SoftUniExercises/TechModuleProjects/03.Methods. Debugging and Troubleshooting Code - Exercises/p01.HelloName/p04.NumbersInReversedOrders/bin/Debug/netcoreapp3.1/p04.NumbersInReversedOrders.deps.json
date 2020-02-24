@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "p04.NumbersInReversedOrders/1.0.0": {
+        "runtime": {
+          "p04.NumbersInReversedOrders.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "p04.NumbersInReversedOrders/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

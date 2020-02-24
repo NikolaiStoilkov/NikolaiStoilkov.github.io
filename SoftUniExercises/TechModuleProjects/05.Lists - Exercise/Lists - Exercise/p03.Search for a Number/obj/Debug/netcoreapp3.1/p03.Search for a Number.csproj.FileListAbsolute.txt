@@ -1,0 +1,10 @@
+D:\NikolaiStoilkov.github.io\SoftUniExercises\TechModuleProjects\Lists - Exercise\Lists - Exercise\p03.Search for a Number\bin\Debug\netcoreapp3.1\p03.Search for a Number.exe
+D:\NikolaiStoilkov.github.io\SoftUniExercises\TechModuleProjects\Lists - Exercise\Lists - Exercise\p03.Search for a Number\bin\Debug\netcoreapp3.1\p03.Search for a Number.deps.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\TechModuleProjects\Lists - Exercise\Lists - Exercise\p03.Search for a Number\bin\Debug\netcoreapp3.1\p03.Search for a Number.runtimeconfig.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\TechModuleProjects\Lists - Exercise\Lists - Exercise\p03.Search for a Number\bin\Debug\netcoreapp3.1\p03.Search for a Number.runtimeconfig.dev.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\TechModuleProjects\Lists - Exercise\Lists - Exercise\p03.Search for a Number\bin\Debug\netcoreapp3.1\p03.Search for a Number.dll
+D:\NikolaiStoilkov.github.io\SoftUniExercises\TechModuleProjects\Lists - Exercise\Lists - Exercise\p03.Search for a Number\bin\Debug\netcoreapp3.1\p03.Search for a Number.pdb
+D:\NikolaiStoilkov.github.io\SoftUniExercises\TechModuleProjects\Lists - Exercise\Lists - Exercise\p03.Search for a Number\obj\Debug\netcoreapp3.1\p03.Search for a Number.AssemblyInfoInputs.cache
+D:\NikolaiStoilkov.github.io\SoftUniExercises\TechModuleProjects\Lists - Exercise\Lists - Exercise\p03.Search for a Number\obj\Debug\netcoreapp3.1\p03.Search for a Number.AssemblyInfo.cs
+D:\NikolaiStoilkov.github.io\SoftUniExercises\TechModuleProjects\Lists - Exercise\Lists - Exercise\p03.Search for a Number\obj\Debug\netcoreapp3.1\p03.Search for a Number.dll
+D:\NikolaiStoilkov.github.io\SoftUniExercises\TechModuleProjects\Lists - Exercise\Lists - Exercise\p03.Search for a Number\obj\Debug\netcoreapp3.1\p03.Search for a Number.pdb
