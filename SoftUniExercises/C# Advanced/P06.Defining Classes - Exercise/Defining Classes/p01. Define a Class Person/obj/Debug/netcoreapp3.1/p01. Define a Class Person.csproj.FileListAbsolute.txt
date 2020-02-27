@@ -1,0 +1,11 @@
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\P06.Defining Classes - Exercise\Defining Classes\p01. Define a Class Person\bin\Debug\netcoreapp3.1\p01. Define a Class Person.exe
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\P06.Defining Classes - Exercise\Defining Classes\p01. Define a Class Person\bin\Debug\netcoreapp3.1\p01. Define a Class Person.deps.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\P06.Defining Classes - Exercise\Defining Classes\p01. Define a Class Person\bin\Debug\netcoreapp3.1\p01. Define a Class Person.runtimeconfig.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\P06.Defining Classes - Exercise\Defining Classes\p01. Define a Class Person\bin\Debug\netcoreapp3.1\p01. Define a Class Person.runtimeconfig.dev.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\P06.Defining Classes - Exercise\Defining Classes\p01. Define a Class Person\bin\Debug\netcoreapp3.1\p01. Define a Class Person.dll
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\P06.Defining Classes - Exercise\Defining Classes\p01. Define a Class Person\bin\Debug\netcoreapp3.1\p01. Define a Class Person.pdb
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\P06.Defining Classes - Exercise\Defining Classes\p01. Define a Class Person\obj\Debug\netcoreapp3.1\p01. Define a Class Person.csprojAssemblyReference.cache
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\P06.Defining Classes - Exercise\Defining Classes\p01. Define a Class Person\obj\Debug\netcoreapp3.1\p01. Define a Class Person.AssemblyInfoInputs.cache
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\P06.Defining Classes - Exercise\Defining Classes\p01. Define a Class Person\obj\Debug\netcoreapp3.1\p01. Define a Class Person.AssemblyInfo.cs
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\P06.Defining Classes - Exercise\Defining Classes\p01. Define a Class Person\obj\Debug\netcoreapp3.1\p01. Define a Class Person.dll
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\P06.Defining Classes - Exercise\Defining Classes\p01. Define a Class Person\obj\Debug\netcoreapp3.1\p01. Define a Class Person.pdb

@@ -1,0 +1,11 @@
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\P06.Defining Classes - Exercise\Defining Classes\p03. Oldest Family Member\bin\Debug\netcoreapp3.1\p03. Oldest Family Member.exe
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\P06.Defining Classes - Exercise\Defining Classes\p03. Oldest Family Member\bin\Debug\netcoreapp3.1\p03. Oldest Family Member.deps.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\P06.Defining Classes - Exercise\Defining Classes\p03. Oldest Family Member\bin\Debug\netcoreapp3.1\p03. Oldest Family Member.runtimeconfig.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\P06.Defining Classes - Exercise\Defining Classes\p03. Oldest Family Member\bin\Debug\netcoreapp3.1\p03. Oldest Family Member.runtimeconfig.dev.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\P06.Defining Classes - Exercise\Defining Classes\p03. Oldest Family Member\bin\Debug\netcoreapp3.1\p03. Oldest Family Member.dll
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\P06.Defining Classes - Exercise\Defining Classes\p03. Oldest Family Member\bin\Debug\netcoreapp3.1\p03. Oldest Family Member.pdb
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\P06.Defining Classes - Exercise\Defining Classes\p03. Oldest Family Member\obj\Debug\netcoreapp3.1\p03. Oldest Family Member.csprojAssemblyReference.cache
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\P06.Defining Classes - Exercise\Defining Classes\p03. Oldest Family Member\obj\Debug\netcoreapp3.1\p03. Oldest Family Member.AssemblyInfoInputs.cache
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\P06.Defining Classes - Exercise\Defining Classes\p03. Oldest Family Member\obj\Debug\netcoreapp3.1\p03. Oldest Family Member.AssemblyInfo.cs
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\P06.Defining Classes - Exercise\Defining Classes\p03. Oldest Family Member\obj\Debug\netcoreapp3.1\p03. Oldest Family Member.dll
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\P06.Defining Classes - Exercise\Defining Classes\p03. Oldest Family Member\obj\Debug\netcoreapp3.1\p03. Oldest Family Member.pdb
