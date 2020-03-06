@@ -1,0 +1,11 @@
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\P05.Functional Programming-Exercise\FunctionalProgramming\p10. Predicate Party!\bin\Debug\netcoreapp3.1\p10. Predicate Party!.exe
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\P05.Functional Programming-Exercise\FunctionalProgramming\p10. Predicate Party!\bin\Debug\netcoreapp3.1\p10. Predicate Party!.deps.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\P05.Functional Programming-Exercise\FunctionalProgramming\p10. Predicate Party!\bin\Debug\netcoreapp3.1\p10. Predicate Party!.runtimeconfig.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\P05.Functional Programming-Exercise\FunctionalProgramming\p10. Predicate Party!\bin\Debug\netcoreapp3.1\p10. Predicate Party!.runtimeconfig.dev.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\P05.Functional Programming-Exercise\FunctionalProgramming\p10. Predicate Party!\bin\Debug\netcoreapp3.1\p10. Predicate Party!.dll
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\P05.Functional Programming-Exercise\FunctionalProgramming\p10. Predicate Party!\bin\Debug\netcoreapp3.1\p10. Predicate Party!.pdb
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\P05.Functional Programming-Exercise\FunctionalProgramming\p10. Predicate Party!\obj\Debug\netcoreapp3.1\p10. Predicate Party!.AssemblyInfoInputs.cache
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\P05.Functional Programming-Exercise\FunctionalProgramming\p10. Predicate Party!\obj\Debug\netcoreapp3.1\p10. Predicate Party!.AssemblyInfo.cs
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\P05.Functional Programming-Exercise\FunctionalProgramming\p10. Predicate Party!\obj\Debug\netcoreapp3.1\p10. Predicate Party!.dll
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\P05.Functional Programming-Exercise\FunctionalProgramming\p10. Predicate Party!\obj\Debug\netcoreapp3.1\p10. Predicate Party!.pdb
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\P05.Functional Programming-Exercise\FunctionalProgramming\p10. Predicate Party!\obj\Debug\netcoreapp3.1\p10. Predicate Party!.csprojAssemblyReference.cache

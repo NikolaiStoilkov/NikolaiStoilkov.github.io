@@ -1,0 +1,11 @@
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\P05.Functional Programming-Exercise\FunctionalProgramming\ConsoleApp1\bin\Debug\netcoreapp3.1\p01.ActionPrint.exe
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\P05.Functional Programming-Exercise\FunctionalProgramming\ConsoleApp1\bin\Debug\netcoreapp3.1\p01.ActionPrint.deps.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\P05.Functional Programming-Exercise\FunctionalProgramming\ConsoleApp1\bin\Debug\netcoreapp3.1\p01.ActionPrint.runtimeconfig.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\P05.Functional Programming-Exercise\FunctionalProgramming\ConsoleApp1\bin\Debug\netcoreapp3.1\p01.ActionPrint.runtimeconfig.dev.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\P05.Functional Programming-Exercise\FunctionalProgramming\ConsoleApp1\bin\Debug\netcoreapp3.1\p01.ActionPrint.dll
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\P05.Functional Programming-Exercise\FunctionalProgramming\ConsoleApp1\bin\Debug\netcoreapp3.1\p01.ActionPrint.pdb
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\P05.Functional Programming-Exercise\FunctionalProgramming\ConsoleApp1\obj\Debug\netcoreapp3.1\p01.ActionPrint.csprojAssemblyReference.cache
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\P05.Functional Programming-Exercise\FunctionalProgramming\ConsoleApp1\obj\Debug\netcoreapp3.1\p01.ActionPrint.AssemblyInfoInputs.cache
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\P05.Functional Programming-Exercise\FunctionalProgramming\ConsoleApp1\obj\Debug\netcoreapp3.1\p01.ActionPrint.AssemblyInfo.cs
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\P05.Functional Programming-Exercise\FunctionalProgramming\ConsoleApp1\obj\Debug\netcoreapp3.1\p01.ActionPrint.dll
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced\P05.Functional Programming-Exercise\FunctionalProgramming\ConsoleApp1\obj\Debug\netcoreapp3.1\p01.ActionPrint.pdb
