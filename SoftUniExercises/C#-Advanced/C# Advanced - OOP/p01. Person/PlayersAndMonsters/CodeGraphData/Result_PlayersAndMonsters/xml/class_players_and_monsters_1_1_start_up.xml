@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_players_and_monsters_1_1_start_up" kind="class" prot="public">
+    <compoundname>PlayersAndMonsters::StartUp</compoundname>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="class_players_and_monsters_1_1_start_up_1a941493661041d8774e1d6f44b301754d" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void PlayersAndMonsters.StartUp.Main</definition>
+        <argsstring>(string[] args)</argsstring>
+        <name>Main</name>
+        <param>
+          <type>string[]</type>
+          <declname>args</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/NikolaiStoilkov.github.io/SoftUniExercises/C# Advanced - OOP/p01. Person/PlayersAndMonsters/StartUp.cs" line="5" column="1" bodyfile="D:/NikolaiStoilkov.github.io/SoftUniExercises/C# Advanced - OOP/p01. Person/PlayersAndMonsters/StartUp.cs" bodystart="5" bodyend="8"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/NikolaiStoilkov.github.io/SoftUniExercises/C# Advanced - OOP/p01. Person/PlayersAndMonsters/StartUp.cs" line="4" column="1" bodyfile="D:/NikolaiStoilkov.github.io/SoftUniExercises/C# Advanced - OOP/p01. Person/PlayersAndMonsters/StartUp.cs" bodystart="3" bodyend="9"/>
+    <listofallmembers>
+      <member refid="class_players_and_monsters_1_1_start_up_1a941493661041d8774e1d6f44b301754d" prot="public" virt="non-virtual"><scope>PlayersAndMonsters::StartUp</scope><name>Main</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

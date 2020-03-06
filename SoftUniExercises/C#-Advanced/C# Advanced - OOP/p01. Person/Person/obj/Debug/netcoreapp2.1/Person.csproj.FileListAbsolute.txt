@@ -1,0 +1,9 @@
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\Person\bin\Debug\netcoreapp2.1\Person.deps.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\Person\bin\Debug\netcoreapp2.1\Person.runtimeconfig.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\Person\bin\Debug\netcoreapp2.1\Person.runtimeconfig.dev.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\Person\bin\Debug\netcoreapp2.1\Person.dll
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\Person\bin\Debug\netcoreapp2.1\Person.pdb
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\Person\obj\Debug\netcoreapp2.1\Person.AssemblyInfoInputs.cache
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\Person\obj\Debug\netcoreapp2.1\Person.AssemblyInfo.cs
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\Person\obj\Debug\netcoreapp2.1\Person.dll
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\Person\obj\Debug\netcoreapp2.1\Person.pdb

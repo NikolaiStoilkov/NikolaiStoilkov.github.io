@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_2f8b7d523f81f187d4d53d8092490c96" kind="dir">
+    <compoundname>PlayersAndMonsters</compoundname>
+    <innerfile refid="_blade_knight_8cs">BladeKnight.cs</innerfile>
+    <innerfile refid="_dark_knight_8cs">DarkKnight.cs</innerfile>
+    <innerfile refid="_dark_wizard_8cs">DarkWizard.cs</innerfile>
+    <innerfile refid="_elf_8cs">Elf.cs</innerfile>
+    <innerfile refid="_hero_8cs">Hero.cs</innerfile>
+    <innerfile refid="_knight_8cs">Knight.cs</innerfile>
+    <innerfile refid="_muse_elf_8cs">MuseElf.cs</innerfile>
+    <innerfile refid="_soul_master_8cs">SoulMaster.cs</innerfile>
+    <innerfile refid="_start_up_8cs">StartUp.cs</innerfile>
+    <innerfile refid="_wizard_8cs">Wizard.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/NikolaiStoilkov.github.io/SoftUniExercises/C# Advanced - OOP/p01. Person/PlayersAndMonsters/"/>
+  </compounddef>
+</doxygen>

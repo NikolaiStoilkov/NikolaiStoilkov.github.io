@@ -1,0 +1,10 @@
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\Restaurant\bin\Debug\netcoreapp2.1\Restaurant.deps.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\Restaurant\bin\Debug\netcoreapp2.1\Restaurant.runtimeconfig.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\Restaurant\bin\Debug\netcoreapp2.1\Restaurant.runtimeconfig.dev.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\Restaurant\bin\Debug\netcoreapp2.1\Restaurant.dll
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\Restaurant\bin\Debug\netcoreapp2.1\Restaurant.pdb
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.csprojAssemblyReference.cache
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.AssemblyInfoInputs.cache
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.AssemblyInfo.cs
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.dll
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.pdb

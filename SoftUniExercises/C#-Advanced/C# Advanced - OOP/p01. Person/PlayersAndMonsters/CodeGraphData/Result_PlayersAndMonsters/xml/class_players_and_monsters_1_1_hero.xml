@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_players_and_monsters_1_1_hero" kind="class" prot="public">
+    <compoundname>PlayersAndMonsters::Hero</compoundname>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/NikolaiStoilkov.github.io/SoftUniExercises/C# Advanced - OOP/p01. Person/PlayersAndMonsters/Hero.cs" line="8" column="1" bodyfile="D:/NikolaiStoilkov.github.io/SoftUniExercises/C# Advanced - OOP/p01. Person/PlayersAndMonsters/Hero.cs" bodystart="7" bodyend="9"/>
+    <listofallmembers>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.6">
+  <compound refid="class_players_and_monsters_1_1_blade_knight" kind="class"><name>PlayersAndMonsters::BladeKnight</name>
+  </compound>
+  <compound refid="class_players_and_monsters_1_1_dark_knight" kind="class"><name>PlayersAndMonsters::DarkKnight</name>
+  </compound>
+  <compound refid="class_players_and_monsters_1_1_dark_wizard" kind="class"><name>PlayersAndMonsters::DarkWizard</name>
+  </compound>
+  <compound refid="class_players_and_monsters_1_1_elf" kind="class"><name>PlayersAndMonsters::Elf</name>
+  </compound>
+  <compound refid="class_players_and_monsters_1_1_hero" kind="class"><name>PlayersAndMonsters::Hero</name>
+  </compound>
+  <compound refid="class_players_and_monsters_1_1_knight" kind="class"><name>PlayersAndMonsters::Knight</name>
+  </compound>
+  <compound refid="class_players_and_monsters_1_1_muse_elf" kind="class"><name>PlayersAndMonsters::MuseElf</name>
+  </compound>
+  <compound refid="class_players_and_monsters_1_1_soul_master" kind="class"><name>PlayersAndMonsters::SoulMaster</name>
+  </compound>
+  <compound refid="class_players_and_monsters_1_1_start_up" kind="class"><name>PlayersAndMonsters::StartUp</name>
+    <member refid="class_players_and_monsters_1_1_start_up_1a941493661041d8774e1d6f44b301754d" kind="function"><name>Main</name></member>
+  </compound>
+  <compound refid="class_players_and_monsters_1_1_wizard" kind="class"><name>PlayersAndMonsters::Wizard</name>
+  </compound>
+  <compound refid="namespace_players_and_monsters" kind="namespace"><name>PlayersAndMonsters</name>
+  </compound>
+  <compound refid="namespace_system" kind="namespace"><name>System</name>
+  </compound>
+  <compound refid="namespace_system_1_1_collections_1_1_generic" kind="namespace"><name>System::Collections::Generic</name>
+  </compound>
+  <compound refid="namespace_system_1_1_text" kind="namespace"><name>System::Text</name>
+  </compound>
+  <compound refid="_blade_knight_8cs" kind="file"><name>BladeKnight.cs</name>
+  </compound>
+  <compound refid="_dark_knight_8cs" kind="file"><name>DarkKnight.cs</name>
+  </compound>
+  <compound refid="_dark_wizard_8cs" kind="file"><name>DarkWizard.cs</name>
+  </compound>
+  <compound refid="_elf_8cs" kind="file"><name>Elf.cs</name>
+  </compound>
+  <compound refid="_hero_8cs" kind="file"><name>Hero.cs</name>
+  </compound>
+  <compound refid="_knight_8cs" kind="file"><name>Knight.cs</name>
+  </compound>
+  <compound refid="_muse_elf_8cs" kind="file"><name>MuseElf.cs</name>
+  </compound>
+  <compound refid="_soul_master_8cs" kind="file"><name>SoulMaster.cs</name>
+  </compound>
+  <compound refid="_start_up_8cs" kind="file"><name>StartUp.cs</name>
+  </compound>
+  <compound refid="_wizard_8cs" kind="file"><name>Wizard.cs</name>
+  </compound>
+  <compound refid="dir_2f8b7d523f81f187d4d53d8092490c96" kind="dir"><name>PlayersAndMonsters</name>
+  </compound>
+</doxygenindex>

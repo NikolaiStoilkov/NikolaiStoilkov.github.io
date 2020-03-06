@@ -1,0 +1,9 @@
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.deps.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.runtimeconfig.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.runtimeconfig.dev.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.dll
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.pdb
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.AssemblyInfoInputs.cache
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.AssemblyInfo.cs
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.dll
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.pdb

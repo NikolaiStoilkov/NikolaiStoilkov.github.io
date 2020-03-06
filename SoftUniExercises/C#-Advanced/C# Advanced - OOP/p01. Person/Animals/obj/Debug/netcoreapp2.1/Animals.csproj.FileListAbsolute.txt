@@ -1,0 +1,10 @@
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\Animals\bin\Debug\netcoreapp2.1\Animals.deps.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\Animals\bin\Debug\netcoreapp2.1\Animals.runtimeconfig.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\Animals\bin\Debug\netcoreapp2.1\Animals.runtimeconfig.dev.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\Animals\bin\Debug\netcoreapp2.1\Animals.dll
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\Animals\bin\Debug\netcoreapp2.1\Animals.pdb
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\Animals\obj\Debug\netcoreapp2.1\Animals.csprojAssemblyReference.cache
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\Animals\obj\Debug\netcoreapp2.1\Animals.AssemblyInfoInputs.cache
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\Animals\obj\Debug\netcoreapp2.1\Animals.AssemblyInfo.cs
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\Animals\obj\Debug\netcoreapp2.1\Animals.dll
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\Animals\obj\Debug\netcoreapp2.1\Animals.pdb

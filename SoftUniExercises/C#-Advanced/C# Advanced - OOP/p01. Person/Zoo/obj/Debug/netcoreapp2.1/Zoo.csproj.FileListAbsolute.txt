@@ -1,0 +1,10 @@
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\Zoo\bin\Debug\netcoreapp2.1\Zoo.deps.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\Zoo\bin\Debug\netcoreapp2.1\Zoo.runtimeconfig.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\Zoo\bin\Debug\netcoreapp2.1\Zoo.runtimeconfig.dev.json
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\Zoo\bin\Debug\netcoreapp2.1\Zoo.dll
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\Zoo\bin\Debug\netcoreapp2.1\Zoo.pdb
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\Zoo\obj\Debug\netcoreapp2.1\Zoo.csprojAssemblyReference.cache
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\Zoo\obj\Debug\netcoreapp2.1\Zoo.AssemblyInfoInputs.cache
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\Zoo\obj\Debug\netcoreapp2.1\Zoo.AssemblyInfo.cs
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\Zoo\obj\Debug\netcoreapp2.1\Zoo.dll
+D:\NikolaiStoilkov.github.io\SoftUniExercises\C# Advanced - OOP\p01. Person\Zoo\obj\Debug\netcoreapp2.1\Zoo.pdb
