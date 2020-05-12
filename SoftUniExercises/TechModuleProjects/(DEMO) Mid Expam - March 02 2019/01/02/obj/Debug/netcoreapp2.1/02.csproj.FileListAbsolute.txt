@@ -1,0 +1,10 @@
+D:\SoftUniExercises.github.io\SoftUniExercises\TechModuleProjects\(DEMO) Mid Expam - March 02 2019\01\02\bin\Debug\netcoreapp2.1\02.deps.json
+D:\SoftUniExercises.github.io\SoftUniExercises\TechModuleProjects\(DEMO) Mid Expam - March 02 2019\01\02\bin\Debug\netcoreapp2.1\02.runtimeconfig.json
+D:\SoftUniExercises.github.io\SoftUniExercises\TechModuleProjects\(DEMO) Mid Expam - March 02 2019\01\02\bin\Debug\netcoreapp2.1\02.runtimeconfig.dev.json
+D:\SoftUniExercises.github.io\SoftUniExercises\TechModuleProjects\(DEMO) Mid Expam - March 02 2019\01\02\bin\Debug\netcoreapp2.1\02.dll
+D:\SoftUniExercises.github.io\SoftUniExercises\TechModuleProjects\(DEMO) Mid Expam - March 02 2019\01\02\bin\Debug\netcoreapp2.1\02.pdb
+D:\SoftUniExercises.github.io\SoftUniExercises\TechModuleProjects\(DEMO) Mid Expam - March 02 2019\01\02\obj\Debug\netcoreapp2.1\02.csprojAssemblyReference.cache
+D:\SoftUniExercises.github.io\SoftUniExercises\TechModuleProjects\(DEMO) Mid Expam - March 02 2019\01\02\obj\Debug\netcoreapp2.1\02.AssemblyInfoInputs.cache
+D:\SoftUniExercises.github.io\SoftUniExercises\TechModuleProjects\(DEMO) Mid Expam - March 02 2019\01\02\obj\Debug\netcoreapp2.1\02.AssemblyInfo.cs
+D:\SoftUniExercises.github.io\SoftUniExercises\TechModuleProjects\(DEMO) Mid Expam - March 02 2019\01\02\obj\Debug\netcoreapp2.1\02.dll
+D:\SoftUniExercises.github.io\SoftUniExercises\TechModuleProjects\(DEMO) Mid Expam - March 02 2019\01\02\obj\Debug\netcoreapp2.1\02.pdb

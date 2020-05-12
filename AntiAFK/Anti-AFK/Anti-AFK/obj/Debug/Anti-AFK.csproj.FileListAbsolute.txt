@@ -1,0 +1,12 @@
+D:\AntiAFK\Anti-AFK\Anti-AFK\obj\Debug\Anti_AFK.Form1.resources
+D:\AntiAFK\Anti-AFK\Anti-AFK\obj\Debug\Anti-AFK.csproj.GenerateResource.cache
+D:\AntiAFK\Anti-AFK\Anti-AFK\obj\Debug\Anti-AFK.csproj.CoreCompileInputs.cache
+D:\AntiAFK\Anti-AFK\Anti-AFK\bin\Debug\Anti-AFK.exe
+D:\AntiAFK\Anti-AFK\Anti-AFK\bin\Debug\Anti-AFK.pdb
+D:\AntiAFK\Anti-AFK\Anti-AFK\obj\Debug\Anti-AFK.exe
+D:\AntiAFK\Anti-AFK\Anti-AFK\obj\Debug\Anti-AFK.pdb
+D:\AntiAFK\Anti-AFK\Anti-AFK\bin\Debug\WindowsInput.dll
+D:\AntiAFK\Anti-AFK\Anti-AFK\bin\Debug\WindowsInput.xml
+D:\AntiAFK\Anti-AFK\Anti-AFK\obj\Debug\Anti-AFK.csproj.CopyComplete
+D:\AntiAFK\Anti-AFK\Anti-AFK\obj\Debug\Anti_AFK.Properties.Resources.resources
+D:\AntiAFK\Anti-AFK\Anti-AFK\obj\Debug\Anti-AFK.csprojAssemblyReference.cache

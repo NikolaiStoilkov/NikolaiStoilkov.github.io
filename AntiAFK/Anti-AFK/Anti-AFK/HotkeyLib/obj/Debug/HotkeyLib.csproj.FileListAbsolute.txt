@@ -1,0 +1,10 @@
+C:\Users\Hizzly\Desktop\Hotkeys\HotkeyLib\bin\Debug\HotkeyLib.dll
+C:\Users\Hizzly\Desktop\Hotkeys\HotkeyLib\bin\Debug\HotkeyLib.pdb
+C:\Users\Hizzly\Desktop\Hotkeys\HotkeyLib\obj\Debug\HotkeyLib.csprojAssemblyReference.cache
+C:\Users\Hizzly\Desktop\Hotkeys\HotkeyLib\obj\Debug\HotkeyLib.csproj.CoreCompileInputs.cache
+C:\Users\Hizzly\Desktop\Hotkeys\HotkeyLib\obj\Debug\HotkeyLib.dll
+C:\Users\Hizzly\Desktop\Hotkeys\HotkeyLib\obj\Debug\HotkeyLib.pdb
+C:\Users\Hizzly\Desktop\Hotkeys\HotkeyLib\bin\Debug\WindowsInput.dll
+C:\Users\Hizzly\Desktop\Hotkeys\HotkeyLib\bin\Debug\WindowsInput.pdb
+C:\Users\Hizzly\Desktop\Hotkeys\HotkeyLib\bin\Debug\WindowsInput.xml
+C:\Users\Hizzly\Desktop\Hotkeys\HotkeyLib\obj\Debug\HotkeyLib.csproj.CopyComplete

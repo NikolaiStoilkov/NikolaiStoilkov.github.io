@@ -9,3 +9,13 @@ D:\NikolaiStoilkov.github.io\(DEMO) Mid Expam - March 02 2019\01\01\obj\Debug\ne
 D:\NikolaiStoilkov.github.io\(DEMO) Mid Expam - March 02 2019\01\01\obj\Debug\netcoreapp2.1\01.AssemblyInfo.cs
 D:\NikolaiStoilkov.github.io\(DEMO) Mid Expam - March 02 2019\01\01\obj\Debug\netcoreapp2.1\01.dll
 D:\NikolaiStoilkov.github.io\(DEMO) Mid Expam - March 02 2019\01\01\obj\Debug\netcoreapp2.1\01.pdb
+D:\SoftUniExercises.github.io\SoftUniExercises\TechModuleProjects\(DEMO) Mid Expam - March 02 2019\01\01\bin\Debug\netcoreapp2.1\01.deps.json
+D:\SoftUniExercises.github.io\SoftUniExercises\TechModuleProjects\(DEMO) Mid Expam - March 02 2019\01\01\bin\Debug\netcoreapp2.1\01.runtimeconfig.json
+D:\SoftUniExercises.github.io\SoftUniExercises\TechModuleProjects\(DEMO) Mid Expam - March 02 2019\01\01\bin\Debug\netcoreapp2.1\01.runtimeconfig.dev.json
+D:\SoftUniExercises.github.io\SoftUniExercises\TechModuleProjects\(DEMO) Mid Expam - March 02 2019\01\01\bin\Debug\netcoreapp2.1\01.dll
+D:\SoftUniExercises.github.io\SoftUniExercises\TechModuleProjects\(DEMO) Mid Expam - March 02 2019\01\01\bin\Debug\netcoreapp2.1\01.pdb
+D:\SoftUniExercises.github.io\SoftUniExercises\TechModuleProjects\(DEMO) Mid Expam - March 02 2019\01\01\obj\Debug\netcoreapp2.1\01.csprojAssemblyReference.cache
+D:\SoftUniExercises.github.io\SoftUniExercises\TechModuleProjects\(DEMO) Mid Expam - March 02 2019\01\01\obj\Debug\netcoreapp2.1\01.AssemblyInfoInputs.cache
+D:\SoftUniExercises.github.io\SoftUniExercises\TechModuleProjects\(DEMO) Mid Expam - March 02 2019\01\01\obj\Debug\netcoreapp2.1\01.AssemblyInfo.cs
+D:\SoftUniExercises.github.io\SoftUniExercises\TechModuleProjects\(DEMO) Mid Expam - March 02 2019\01\01\obj\Debug\netcoreapp2.1\01.dll
+D:\SoftUniExercises.github.io\SoftUniExercises\TechModuleProjects\(DEMO) Mid Expam - March 02 2019\01\01\obj\Debug\netcoreapp2.1\01.pdb
