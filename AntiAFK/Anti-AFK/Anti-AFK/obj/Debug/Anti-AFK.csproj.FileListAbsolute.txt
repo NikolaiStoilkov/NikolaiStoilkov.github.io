@@ -10,3 +10,15 @@ D:\AntiAFK\Anti-AFK\Anti-AFK\bin\Debug\WindowsInput.xml
 D:\AntiAFK\Anti-AFK\Anti-AFK\obj\Debug\Anti-AFK.csproj.CopyComplete
 D:\AntiAFK\Anti-AFK\Anti-AFK\obj\Debug\Anti_AFK.Properties.Resources.resources
 D:\AntiAFK\Anti-AFK\Anti-AFK\obj\Debug\Anti-AFK.csprojAssemblyReference.cache
+D:\SoftUniExercises.github.io\AntiAFK\Anti-AFK\Anti-AFK\bin\Debug\Anti-AFK.exe
+D:\SoftUniExercises.github.io\AntiAFK\Anti-AFK\Anti-AFK\bin\Debug\Anti-AFK.pdb
+D:\SoftUniExercises.github.io\AntiAFK\Anti-AFK\Anti-AFK\bin\Debug\WindowsInput.dll
+D:\SoftUniExercises.github.io\AntiAFK\Anti-AFK\Anti-AFK\bin\Debug\WindowsInput.xml
+D:\SoftUniExercises.github.io\AntiAFK\Anti-AFK\Anti-AFK\obj\Debug\Anti-AFK.csprojAssemblyReference.cache
+D:\SoftUniExercises.github.io\AntiAFK\Anti-AFK\Anti-AFK\obj\Debug\Anti_AFK.Form1.resources
+D:\SoftUniExercises.github.io\AntiAFK\Anti-AFK\Anti-AFK\obj\Debug\Anti_AFK.Properties.Resources.resources
+D:\SoftUniExercises.github.io\AntiAFK\Anti-AFK\Anti-AFK\obj\Debug\Anti-AFK.csproj.GenerateResource.cache
+D:\SoftUniExercises.github.io\AntiAFK\Anti-AFK\Anti-AFK\obj\Debug\Anti-AFK.csproj.CoreCompileInputs.cache
+D:\SoftUniExercises.github.io\AntiAFK\Anti-AFK\Anti-AFK\obj\Debug\Anti-AFK.csproj.CopyComplete
+D:\SoftUniExercises.github.io\AntiAFK\Anti-AFK\Anti-AFK\obj\Debug\Anti-AFK.exe
+D:\SoftUniExercises.github.io\AntiAFK\Anti-AFK\Anti-AFK\obj\Debug\Anti-AFK.pdb
