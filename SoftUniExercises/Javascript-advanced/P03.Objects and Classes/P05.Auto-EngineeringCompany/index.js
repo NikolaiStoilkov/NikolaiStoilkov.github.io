@@ -1,5 +1,34 @@
 function autoCompany(input) {
+    let cars = {};
 
+    input.forEach(
+        car => {
+            let[brand, model, quantity] = car.split(" | ");
+            if (!cars[brand]){
+                cars[brand] = {};
+            }
+
+            if(!cars[brand][model]){
+                cars[brand][model] = 0;
+            }
+            quantity = Number(quantity);
+            cars[brand][model] += quantity;
+        }
+    );
+
+    //print
+    Object.entries(cars)
+        .forEach(
+            ([car,model,quantity]) => {
+                console.log(car);
+                Object.entries(model)
+                    .forEach(
+                        ([name, value]) => {
+                            console.log(`###${name} -> ${value}`);
+                        }
+                    )
+            }
+        )
 }
 
 autoCompany(['Audi | Q7 | 1000',

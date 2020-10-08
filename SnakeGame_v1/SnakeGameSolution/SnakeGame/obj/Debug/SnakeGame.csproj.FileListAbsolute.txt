@@ -4,3 +4,10 @@ D:\NikolaiStoilkov.github.io\SnakeGame_v1\SnakeGameSolution\SnakeGame\bin\Debug\
 D:\NikolaiStoilkov.github.io\SnakeGame_v1\SnakeGameSolution\SnakeGame\obj\Debug\SnakeGame.csprojAssemblyReference.cache
 D:\NikolaiStoilkov.github.io\SnakeGame_v1\SnakeGameSolution\SnakeGame\obj\Debug\SnakeGame.exe
 D:\NikolaiStoilkov.github.io\SnakeGame_v1\SnakeGameSolution\SnakeGame\obj\Debug\SnakeGame.pdb
+D:\SoftUniExercises.github.io\SnakeGame_v1\SnakeGameSolution\SnakeGame\bin\Debug\SnakeGame.exe.config
+D:\SoftUniExercises.github.io\SnakeGame_v1\SnakeGameSolution\SnakeGame\bin\Debug\SnakeGame.exe
+D:\SoftUniExercises.github.io\SnakeGame_v1\SnakeGameSolution\SnakeGame\bin\Debug\SnakeGame.pdb
+D:\SoftUniExercises.github.io\SnakeGame_v1\SnakeGameSolution\SnakeGame\obj\Debug\SnakeGame.csprojAssemblyReference.cache
+D:\SoftUniExercises.github.io\SnakeGame_v1\SnakeGameSolution\SnakeGame\obj\Debug\SnakeGame.csproj.CoreCompileInputs.cache
+D:\SoftUniExercises.github.io\SnakeGame_v1\SnakeGameSolution\SnakeGame\obj\Debug\SnakeGame.exe
+D:\SoftUniExercises.github.io\SnakeGame_v1\SnakeGameSolution\SnakeGame\obj\Debug\SnakeGame.pdb
