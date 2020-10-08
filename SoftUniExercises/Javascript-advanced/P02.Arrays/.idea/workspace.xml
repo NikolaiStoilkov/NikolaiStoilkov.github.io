@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c1f415e-3a06-49c3-ac81-32027a9b4322" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../SnakeGame_v1/SnakeGameSolution/.vs/SnakeGameSolution/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SnakeGame_v1/SnakeGameSolution/.vs/SnakeGameSolution/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SnakeGame_v1/SnakeGameSolution/SnakeGame/bin/Debug/SnakeGame.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SnakeGame_v1/SnakeGameSolution/SnakeGame/bin/Debug/SnakeGame.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SnakeGame_v1/SnakeGameSolution/SnakeGame/bin/Debug/SnakeGame.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SnakeGame_v1/SnakeGameSolution/SnakeGame/bin/Debug/SnakeGame.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SnakeGame_v1/SnakeGameSolution/SnakeGame/obj/Debug/SnakeGame.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SnakeGame_v1/SnakeGameSolution/SnakeGame/obj/Debug/SnakeGame.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SnakeGame_v1/SnakeGameSolution/SnakeGame/obj/Debug/SnakeGame.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SnakeGame_v1/SnakeGameSolution/SnakeGame/obj/Debug/SnakeGame.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SnakeGame_v1/SnakeGameSolution/SnakeGame/obj/Debug/SnakeGame.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SnakeGame_v1/SnakeGameSolution/SnakeGame/obj/Debug/SnakeGame.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SnakeGame_v1/SnakeGameSolution/SnakeGame/obj/Debug/SnakeGame.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SnakeGame_v1/SnakeGameSolution/SnakeGame/obj/Debug/SnakeGame.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Wepplication/.vs/Wepplication/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Wepplication/.vs/Wepplication/v16/.suo" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1hsYkKfCNHC95piKdNeDzdAKB3z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c1f415e-3a06-49c3-ac81-32027a9b4322" name="Default Changelist" comment="" />
+      <created>1600801410050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600801410050</updated>
+      <workItem from="1600801419042" duration="33000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+</project>
