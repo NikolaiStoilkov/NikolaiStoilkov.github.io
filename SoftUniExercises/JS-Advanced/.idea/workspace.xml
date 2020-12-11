@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="74a4be5b-2a3e-473e-82bd-6b23bbbd197e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../AntiAFK/Anti-AFK/.vs/Anti-AFK/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../AntiAFK/Anti-AFK/.vs/Anti-AFK/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/.idea/Javascript-advanced.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/.idea/jsLibraryMappings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P01.Syntax, Functions and Statements/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P01.Syntax, Functions and Statements/.idea/Javascript-advanced.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P01.Syntax, Functions and Statements/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P01.Syntax, Functions and Statements/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P01.Syntax, Functions and Statements/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P01.Syntax, Functions and Statements/P01.Fruit/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P01.Syntax, Functions and Statements/P02.Greates Common Divisor/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P01.Syntax, Functions and Statements/P03.Same Numbers/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P01.Syntax, Functions and Statements/P04.Time To Walk/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P01.Syntax, Functions and Statements/P05.Road Radar/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P01.Syntax, Functions and Statements/P06.Cooking By Numbers/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P01.Syntax, Functions and Statements/P07.Validity Checker/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P01.Syntax, Functions and Statements/P08.Calorie Object/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P02.Arrays/.idea/P02.Arrays.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P02.Arrays/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P02.Arrays/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P02.Arrays/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P02.Arrays/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P02.Arrays/P01.Print an Array with a Given Delimiter/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P02.Arrays/P02.Print Every N-th Element from Array/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P02.Arrays/P03.Add and Remove Elements/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P02.Arrays/P04.Rotate Array/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P02.Arrays/P05.ExtractIncreaseingSubFromArray/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P02.Arrays/P06.SortArray/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P02.Arrays/P07.Magic Matrices/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P02.Arrays/P08.Tic-Tac-Toe/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P02.Arrays/P09.Diagonal Attack/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P02.Lab.Arrays/P01.Sum First Last/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P02.Lab.Arrays/P02.Even Position Elements/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P02.Lab.Arrays/P03.NegativePositiveNumbers/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P02.Lab.Arrays/P04.LastKNumbers/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P02.Lab.Arrays/P05.Process Odd Numbers/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P02.Lab.Arrays/P06.SmallestTwoNumbers/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P02.Lab.Arrays/P07.Biggest Element/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P02.Lab.Arrays/P08.Diagonal Sums/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P02.Lab.Arrays/P09.Equal Neighbors/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P03.Objects and Classes/P01.Heroic Invetory/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P03.Objects and Classes/P02.JSON's table/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P03.Objects and Classes/P03.Cappy Juice/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P03.Objects and Classes/P04.StoreCatalogue/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P03.Objects and Classes/P05.Auto-EngineeringCompany/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P03.Objects and Classes/P06.SystemComponents/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P03.Objects and Classes/P07.DataClass/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P03.Objects and Classes/P08.Tickets/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P03.Objects and Classes/P09.SortedList/SortedList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P03.Objects and Classes/P09.SortedList/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P03.Objects and Classes/P10.LengthLimit/Stringer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P03.Objects and Classes/P11.Rectangle/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P03.Objects and Classes/P12.ScoreToHTML/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM.LAB/P01. Articles List/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM.LAB/P01. Articles List/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM.LAB/P01. Articles List/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM.LAB/P02. Format the Text/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM.LAB/P02. Format the Text/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM.LAB/P02. Format the Text/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM.LAB/P03. Growing Word/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM.LAB/P03. Growing Word/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM.LAB/P03. Growing Word/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM.LAB/P04. Visited Websites/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM.LAB/P04. Visited Websites/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM.LAB/P04. Visited Websites/images/wizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM.LAB/P04. Visited Websites/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM.LAB/P04. Visited Websites/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM.LAB/P04. Visited Websites/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM.LAB/Screenshots/06. Articles List.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM.LAB/Screenshots/07. Format the Text.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM.LAB/Screenshots/08. Growing Word.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM.LAB/Screenshots/09. Visited Websites.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM/P01. Subtraction/01. Substraction.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM/P01. Subtraction/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM/P01. Subtraction/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM/P01. Subtraction/subtract.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM/P02. Fill-Dropdown/02. Fill-Dropdown.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM/P02. Fill-Dropdown/dropdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM/P02. Fill-Dropdown/filldropdown.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM/P02. Fill-Dropdown/filldropdown.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM/P03. Accordion/03. Accordion.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM/P03. Accordion/accordion.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM/P03. Accordion/accordion.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM/P03. Accordion/accordion.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM/P04. Order-the-Names/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM/P04. Order-the-Names/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM/P04. Order-the-Names/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM/P05. Chat-Room/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM/P05. Chat-Room/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM/P05. Chat-Room/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM/P06. Numpad-Calculator/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM/P06. Numpad-Calculator/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM/P06. Numpad-Calculator/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM/P07. Number-Convertor/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM/P07. Number-Convertor/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM/P07. Number-Convertor/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM/P08. JavaScript-Quizz/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM/P08. JavaScript-Quizz/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM/P08. JavaScript-Quizz/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM/P09. Shopping-Cart/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM/P09. Shopping-Cart/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM/P09. Shopping-Cart/images/wizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM/P09. Shopping-Cart/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM/P09. Shopping-Cart/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript-advanced/P04.DOM/P09. Shopping-Cart/template.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1jcDEbKN9jcLtxfr0bxoii92ERl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.template.html (1)">
+    <configuration name="template.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Advanced/Javascript-advanced/P04.DOM/P06. Numpad-Calculator/template.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="template.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Advanced/Javascript-advanced/P04.DOM/P05. Chat-Room/template.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.template.html (1)" />
+        <item itemvalue="JavaScript Debug.template.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74a4be5b-2a3e-473e-82bd-6b23bbbd197e" name="Default Changelist" comment="" />
+      <created>1604094385471</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604094385471</updated>
+      <workItem from="1604094388519" duration="24495000" />
+      <workItem from="1604408514162" duration="1981000" />
+      <workItem from="1604437776534" duration="1308000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="937" height="347" key="GridCell.Tab.0.bottom" timestamp="1604324239415">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="937" height="347" key="GridCell.Tab.0.bottom/1920.143.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604324239415" />
+    <state width="937" height="347" key="GridCell.Tab.0.center" timestamp="1604324239415">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="937" height="347" key="GridCell.Tab.0.center/1920.143.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604324239415" />
+    <state width="937" height="347" key="GridCell.Tab.0.left" timestamp="1604324239400">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="937" height="347" key="GridCell.Tab.0.left/1920.143.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604324239400" />
+    <state width="937" height="347" key="GridCell.Tab.0.right" timestamp="1604324239415">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="937" height="347" key="GridCell.Tab.0.right/1920.143.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604324239415" />
+    <state width="937" height="347" key="GridCell.Tab.1.bottom" timestamp="1604324239438">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="937" height="347" key="GridCell.Tab.1.bottom/1920.143.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604324239438" />
+    <state width="937" height="347" key="GridCell.Tab.1.center" timestamp="1604324239431">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="937" height="347" key="GridCell.Tab.1.center/1920.143.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604324239431" />
+    <state width="937" height="347" key="GridCell.Tab.1.left" timestamp="1604324239431">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="937" height="347" key="GridCell.Tab.1.left/1920.143.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604324239431" />
+    <state width="937" height="347" key="GridCell.Tab.1.right" timestamp="1604324239438">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="937" height="347" key="GridCell.Tab.1.right/1920.143.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604324239438" />
+    <state width="937" height="347" key="GridCell.Tab.2.bottom" timestamp="1604324239453">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="937" height="347" key="GridCell.Tab.2.bottom/1920.143.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604324239453" />
+    <state width="937" height="347" key="GridCell.Tab.2.center" timestamp="1604324239453">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="937" height="347" key="GridCell.Tab.2.center/1920.143.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604324239453" />
+    <state width="937" height="347" key="GridCell.Tab.2.left" timestamp="1604324239438">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="937" height="347" key="GridCell.Tab.2.left/1920.143.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604324239438" />
+    <state width="937" height="347" key="GridCell.Tab.2.right" timestamp="1604324239453">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="937" height="347" key="GridCell.Tab.2.right/1920.143.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604324239453" />
+  </component>
+</project>
