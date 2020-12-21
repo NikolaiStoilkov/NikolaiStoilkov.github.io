@@ -1,8 +1,10 @@
-require('./SortedList');
+const { SortedList: srList } = require('./SortedList.js');
 
 function solve() {
-    let list = new SortedList();
-
-    console.log(list.get(2));
-
+    const list = new srList();
+    console.log(list);
+    list.add(5);
+    console.log(list);
 }
+
+solve();

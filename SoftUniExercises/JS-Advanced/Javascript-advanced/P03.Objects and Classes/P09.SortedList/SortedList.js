@@ -1,3 +1,5 @@
+'use strict';
+
 class SortedList {
     constructor(list = []) {
         this.list = list.sort((a, b) =>  a - b);
@@ -29,3 +31,7 @@ class SortedList {
         }
     }
 }
+
+module.exports = {
+    SortedList,
+};
